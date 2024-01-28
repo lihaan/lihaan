@@ -18,8 +18,6 @@ This is a WIP mega project consisting of two repositories that work together:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=TeleAssist-Web&show_icons=true&theme=vue-dark)](https://github.com/lihaan/TeleAssist-Web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=TeleAssist-Bot&show_icons=true&theme=vue-dark)](https://github.com/lihaan/TeleAssist-Bot)
 
-<hr>
-
 ### docktainer-backup 💾 <img src="https://skillicons.dev/icons?i=docker" width="18px" />
 ```
 Never let a Docker container hold you (or your hard disk) hostage!
@@ -28,9 +26,8 @@ Daily backups of user-configurable files/directories within Docker containers, w
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=docktainer-backup&show_icons=true&theme=vue-dark)](https://github.com/lihaan/docktainer-backup)
 
-<hr>
 
-### Tech Stack 💻
+## Tech Stack 💻
 **Languages**: Python, Javascript, Scala, Java
 <br>**Front-end**: React, Angular, Figma (UI design)
 <br>**Backend**: Flask / Quart (async version of Flask)
