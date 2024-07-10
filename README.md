@@ -15,7 +15,7 @@ This is a WIP mega project consisting of two repositories that work together:
 1) **TeleAssist-Web**: Backend Quart application that batches messages received from peers, before passing it as a prompt into a Large Language Model (LLM) and sending back its response
 3) **TeleAssist-Bot**: Telegram bot that communicates with the backend app, allowing the owner to silence Telegram notifications and toggle the LLM replies, and/or provide a frontend for users to interact with the LLM directly
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=TeleAssist-Web&show_icons=true&theme=vu)](https://github.com/lihaan/TeleAssist-Web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=TeleAssist-Web&show_icons=true&theme=vue)](https://github.com/lihaan/TeleAssist-Web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=TeleAssist-Bot&show_icons=true&theme=vue)](https://github.com/lihaan/TeleAssist-Bot)
 
 ### docktainer-backup 💾 <img src="https://skillicons.dev/icons?i=docker" width="18px" />
