@@ -17,7 +17,7 @@ Lightweight HTTP service built as an exercise in **🤖 Agentic Coding 🚀 (bui
 
 Also features: state persistence across service restarts, user-configurable stay-awake duration, decoupled client-server architecture
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=Fortress&show_icons=true&theme=vue)](https://github.com/lihaan/Fortress)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lihaan&repo=fortress-app&show_icons=true&theme=vue)](https://github.com/lihaan/Fortress)
 
 ### TeleAssist 🤖
 ```
